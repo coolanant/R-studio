@@ -3,7 +3,7 @@
 <details close>
   <summary>DataTypes</summary>
   
-## DataTypes
+# DataTypes
 - There are 5 types in R
 <br/>Vector, Matrix, Array, List, Data Frame
 
@@ -44,7 +44,7 @@ vtr1 = c("Hello", "Boy")
 mylist = list(1L, 5.678, c("Hello"))
 ```
 
-## Matrix
+# Matrix
 - R objects in which elements are arranged in a 2D rectangular layout
 
 ```
@@ -54,7 +54,7 @@ matrix(data, nrow, ncol, byrow, dimnames)
 matrix(c(5:29), 5, 5)
 ```
 
-## Arrays
+# Arrays
 - store data in more than 2 dimensions.
 
 ```
@@ -62,7 +62,7 @@ array(data, dim, dimnames)
 array(c(0:15), dim=c(4,4, 2,2))
 ```
 
-## Data Frame
+# Data Frame
 -  2D array like structure, store data in ordered manner(tabel/excel like format).
 
 ```
@@ -73,4 +73,12 @@ data.frame(sno,name,marks)
 
 data.frame(airquality)
 ```
+</details>
+
+<details close>
+  <summary>Operators</summary>
+
+# Operators
+
+
 </details>
