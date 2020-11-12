@@ -1,5 +1,9 @@
 # R-studio
 
+## DataTypes
+- There are 5 types in R
+<br/>Vector, Matrix, Array, List, Data Frame
+
 ## Vectors
 - sequence of data elements of same basic type
 - There are 5 atomic vectors/ classes of vector - Logical, Integer, Numeric, Complex, Character
@@ -31,3 +35,9 @@ vtr1 = c(15L, 80L)
 vtr1 = c("Hello", "Boy")
 ```
 
+## Matrix
+- R objects in which elements are arranged in a 2D rectangular layout
+
+```
+matrix(data, nrow, ncol, byrow, dimnames)
+```
