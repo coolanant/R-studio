@@ -1,5 +1,8 @@
 # R-studio
 
+<details close>
+  <summary>DataTypes</summary>
+  
 ## DataTypes
 - There are 5 types in R
 <br/>Vector, Matrix, Array, List, Data Frame
@@ -70,3 +73,4 @@ data.frame(sno,name,marks)
 
 data.frame(airquality)
 ```
+</details>
