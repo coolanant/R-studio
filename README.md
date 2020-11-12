@@ -121,7 +121,7 @@ switch(4,
 ```
 
 ### Loop
-- repeat, while, for
+repeat, while, for
 ```
 repeat{
   statements...
