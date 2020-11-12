@@ -41,3 +41,6 @@ vtr1 = c("Hello", "Boy")
 ```
 matrix(data, nrow, ncol, byrow, dimnames)
 ```
+```
+matrix(c(5:29), 5, 5)
+```
