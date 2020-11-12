@@ -79,6 +79,71 @@ data.frame(airquality)
   <summary>Operators</summary>
 
 # Operators
+- to manipulate value of operand 
+- Arithmetic, Assignment, Logical, Relational
 
+### Arithmetic
+* a+b. a-b, a*b, a/b
+* a %% b = Modulus
+* a ^ b = exponent
+* a%/%b = Floor Division
+
+### Relational
+* ==, !=, >=, >, <, <=
+
+### Logical 
+* &, |, ! - and, or, not
+* ||, && 
 
 </details>
+
+
+### Print
+```
+print(6+4)
+var1=c(4)
+var1
+```
+
+### Conditional Statement
+```
+if(){
+}else{
+}
+```
+
+```
+switch(4,
+  1 = print(1);
+  2 = ...
+  print("invalid")
+)
+```
+
+### Loop
+- repeat, while, for
+```
+repeat{
+  statements...
+  if(condition...){
+  break;
+  }
+}
+```
+
+```
+while(condition...){
+  statements...
+  
+}
+```
+
+```
+for(value in vector){
+  statements...
+}
+
+for(x in 1:25){
+  print(x);
+}
+```
