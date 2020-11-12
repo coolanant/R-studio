@@ -147,3 +147,24 @@ for(x in 1:25){
   print(x);
 }
 ```
+
+## Strings
+```r
+str1 <- "Hey string"
+str2 <- "Second string"
+print(str1)
+
+# Concatenation
+paste(str1,str2)
+
+# Character Count
+nchar(str1)
+
+# Case Change
+tolower(str1)
+
+# Substring
+substring(str, 3, 6)
+```
+
+
