@@ -167,4 +167,12 @@ tolower(str1)
 substring(str, 3, 6)
 ```
 
+## Functions
+
+```
+fibo <- function(int a){
+  
+}
+```
+
 
